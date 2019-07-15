@@ -371,7 +371,7 @@ function exampleThree(arr) {
 	O(n)
 </details>
 
-###Example Four:
+### Example Four:
 ```js
 function exampleFour(arr) {
   arr.forEach(function(num){
